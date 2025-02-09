@@ -1,16 +1,16 @@
 #!/bin/bash
 
 # Run this script with:
-# wget https://raw.githubusercontent.com/pitterpatter22/Script-Repo/main/Installs/script-template.sh --no-check-certificate && sudo bash script-template.sh
+# wget https://raw.githubusercontent.com/YellowMonster76/Script-Repo/main/Installs/script-template.sh --no-check-certificate && sudo bash script-template.sh
 
 
 #-----------------------------------#
 #             VARIABLES             #
 #-----------------------------------#
 
-this_script_url="https://raw.githubusercontent.com/pitterpatter22/Script-Repo/main/Installs/script-template.sh"
+this_script_url="https://raw.githubusercontent.com/YellowMonster76/Script-Repo/main/Installs/script-template.sh"
 this_script_name="TEMPLATE"
-formatter_url="https://raw.githubusercontent.com/pitterpatter22/TaskFormatter/main/bash_task_formatter/task_formatter.sh"
+formatter_url="https://raw.githubusercontent.com/YellowMonster76/TaskFormatter/main/bash_task_formatter/task_formatter.sh"
 scriptname=$0
 
 # Initialize success flag
