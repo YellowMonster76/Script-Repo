@@ -6,7 +6,7 @@
 # Variables for URLs and script info
 this_script_url="https://raw.githubusercontent.com/YellowMonster76/Script-Repo/refs/heads/main/master.sh"
 this_script_name="Master Script Repo"
-formatter_url="https://raw.githubusercontent.com/YellowMonster76/TaskFormatter/main/bash_task_formatter/task_formatter.sh"
+formatter_url="https://raw.githubusercontent.com/YellowMonster76/TaskFormatter/refs/heads/main/bash_task_formatter/task_formatter.sh"
 BRANCH="main"  # or whatever branch you are using
 
 gitlab_url="gitlab.example.com"
