@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Run this script with:
-# wget https://raw.githubusercontent.com/YellowMonster76/Script-Repo/main/update-apt.sh --no-check-certificate && sudo bash script-template.sh
+# wget https://raw.githubusercontent.com/YellowMonster76/Script-Repo/main/Installs/update-apt.sh --no-check-certificate && sudo bash update-apt.sh
 
 
 #-----------------------------------#
