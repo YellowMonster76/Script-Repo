@@ -1,3 +1,5 @@
+#!/bin/bash
+
 FILE_NAME="abctl-v0.24.0-linux-amd64"
 DOWNLOAD_URL="https://github.com/airbytehq/abctl/releases/download/v0.24.0/abctl-v0.24.0-linux-amd64.tar.gz"
 
