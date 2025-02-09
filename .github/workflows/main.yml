@@ -1,0 +1,16 @@
+            - name: Find and Replace
+  # You may pin to the exact commit or the version.
+  # uses: jacobtomlinson/gha-find-replace@f1069b438f125e5395d84d1c6fd3b559a7880cb5
+  uses: jacobtomlinson/gha-find-replace@3.0.5
+  with:
+    # A glob of files to include in our find and replace
+    include: # optional, default is **
+    # A glob of files to exclude in our find and replace
+    exclude: # optional, default is .git/**
+    # The regular expression (or fixed string) we want to replace
+    find: 
+    # The new string to replace with
+    replace: 
+    # Whether to match with.find as a regular expression instead of a fixed string
+    regex: # optional
+          
