@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Run this script with:
-# wget https://raw.githubusercontent.com/YellowMonster76/Script-Repo/main/install-abctl.sh --no-check-certificate && sudo bash install-abctl.sh
+# wget https://raw.githubusercontent.com/YellowMonster76/Script-Repo/main/Installs/install-abctl.sh --no-check-certificate && sudo bash install-abctl.sh
 
 FILE_NAME="abctl-v0.24.0-linux-amd64"
 DOWNLOAD_URL="https://github.com/airbytehq/abctl/releases/download/v0.24.0/abctl-v0.24.0-linux-amd64.tar.gz"
