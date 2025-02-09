@@ -1,16 +1,16 @@
 #!/bin/bash
 
 # Run this script with:
-# wget https://github.com/pitterpatter22/Script-Repo/tree/main/Bootstrap%20Scripts/ssh_portknocking.sh --no-check-certificate && sudo bash ssh_portknocking.sh [username]
+# wget https://raw.githubusercontent.com/YellowMonster76/Script-Repo/refs/heads/main/Bootstrap/ssh_portknocking.sh --no-check-certificate && sudo bash ssh_portknocking.sh [username]
 
 
 #-----------------------------------#
 #             VARIABLES             #
 #-----------------------------------#
 
-this_script_url="https://raw.githubusercontent.com/pitterpatter22/TaskFormatter/refs/heads/main/bash_task_formatter/task_formatter.sh"
+this_script_url="https://raw.githubusercontent.com/YellowMonster76/Script-Repo/refs/heads/main/Bootstrap/ssh_portknocking.sh"
 this_script_name="SSH Port Knocking Setup"
-formatter_url="https://raw.githubusercontent.com/pitterpatter22/TaskFormatter/main/bash_task_formatter/task_formatter.sh"
+formatter_url="https://raw.githubusercontent.com/YellowMonster76/TaskFormatter/refs/heads/main/bash_task_formatter/task_formatter.sh"
 scriptname=$0
 
 
