@@ -8,7 +8,7 @@ this_script_url="https://raw.githubusercontent.com/YellowMonster76/Script-Repo/r
 this_script_name="Master Script Repo"
 formatter_url="https://raw.githubusercontent.com/YellowMonster76/TaskFormatter/main/bash_task_formatter/task_formatter.sh"
 BRANCH="main"  # or whatever branch you are using
-github_username="yellowmonster76"
+github_username="YellowMonster76"
 github_repo_name="Script-Repo"
 
 # Temporary file tracking and log file list
