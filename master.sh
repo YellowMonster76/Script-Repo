@@ -1,14 +1,14 @@
 #!/bin/bash
 
 # Run this script with:
-# wget https://scripts.pitterpatter.io/master.sh && sudo bash master.sh
+# wget https://raw.githubusercontent.com/YellowMonster76/Script-Repo/refs/heads/main/master.sh && sudo bash master.sh
 
 # Variables for URLs and script info
-this_script_url="https://scripts.pitterpatter.io/master.sh"
+this_script_url="https://raw.githubusercontent.com/YellowMonster76/Script-Repo/refs/heads/main/master.sh"
 this_script_name="Master Script Repo"
-formatter_url="https://raw.githubusercontent.com/pitterpatter22/TaskFormatter/main/bash_task_formatter/task_formatter.sh"
+formatter_url="https://raw.githubusercontent.com/YellowMonster76/TaskFormatter/main/bash_task_formatter/task_formatter.sh"
 BRANCH="main"  # or whatever branch you are using
-github_username="pitterpatter22"
+github_username="yellowmonster76"
 github_repo_name="Script-Repo"
 
 # Temporary file tracking and log file list
